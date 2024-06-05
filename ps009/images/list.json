@@ -17,6 +17,6 @@
   {
     "uuid": "6fe3f1c0234511ef9ef83e861780bb24",
     "name": "Armbian Minimal Bookworm 5.10",
-    "url": "https://raw.githubusercontent.com/jeromegn/roobi-config/main/ps009/images/armbian-minimal-bookworm.json"
+    "url": "https://raw.githubusercontent.com/jeromegn/roobi-config/98caecd84f11faa5bcce6f3bf2699b72cb6045c4/ps009/images/armbian-minimal-bookworm.json"
   }
 ]
