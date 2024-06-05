@@ -13,5 +13,10 @@
     "uuid": "3e1f009be65f423ab964ff382d4dce1b",
     "name": "Armbian Minimal",
     "url": "https://roobi.radxa.com/ps009/images/Armbian_24.5.0-trunk.653_Rock-5-itx_trixie_vendor_6.1.43_minimal.json"
+  },
+  {
+    "uuid": "6fe3f1c0234511ef9ef83e861780bb24",
+    "name": "Armbian Minimal Bookworm 5.10",
+    "url": "https://raw.githubusercontent.com/jeromegn/roobi-config/main/ps009/images/armbian-minimal-bookworm.json"
   }
 ]
