@@ -53,7 +53,7 @@
     },
     {
       "file_name": "install.img.xz",
-      "size": 301042084,
+      "size": 294962532,
       "urls": [
         "https://dl.armbian.com/rock-5-itx/archive/Armbian_24.5.1_Rock-5-itx_bookworm_legacy_5.10.160_minimal.img.xz"
       ],
